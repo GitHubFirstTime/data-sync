@@ -1,16 +1,8 @@
-/**
- * Copyright (c) 2018 人人开源 All rights reserved.
- *
- * https://www.renren.io
- *
- * 版权所有，侵权必究！
- */
-
 package com.rlc.dynamic.datasource.config;
 
 import com.alibaba.druid.pool.DruidDataSource;
-import io.renren.commons.dynamic.datasource.properties.DataSourceProperties;
-import io.renren.commons.dynamic.datasource.properties.DynamicDataSourceProperties;
+import com.rlc.dynamic.datasource.properties.DataSourceProperties;
+import com.rlc.dynamic.datasource.properties.DynamicDataSourceProperties;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

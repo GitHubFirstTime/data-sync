@@ -9,7 +9,7 @@
 package com.rlc.dynamic.datasource.config;
 
 import com.alibaba.druid.pool.DruidDataSource;
-import io.renren.commons.dynamic.datasource.properties.DataSourceProperties;
+import com.rlc.dynamic.datasource.properties.DataSourceProperties;
 
 import java.sql.SQLException;
 
