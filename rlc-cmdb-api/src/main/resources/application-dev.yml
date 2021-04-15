@@ -1,0 +1,8 @@
+dynamic:
+  datasource:
+    cmdb_datasource:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://192.168.2.206:3306/cmdb?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+      username: root
+      password: 123456
+
